@@ -5,7 +5,7 @@ I develop at the simplest level generic api call template. It getting from json 
 
 ##Table of Content
 
-*URLSession
-*RestApi
-*MVC
+-URLSession
+-RestApi
+-MVC
 
