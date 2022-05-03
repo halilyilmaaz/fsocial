@@ -89,8 +89,6 @@
 		9D0746C2281929560093ED62 = {
 			isa = PBXGroup;
 			children = (
-				9D07470128192A330093ED62 /* app */,
-				9D07470228192A3C0093ED62 /* core */,
 				9D07470328192A510093ED62 /* screens */,
 				9D0746CD281929560093ED62 /* fsocial */,
 				9D0746E7281929580093ED62 /* fsocialTests */,
@@ -112,6 +110,8 @@
 		9D0746CD281929560093ED62 /* fsocial */ = {
 			isa = PBXGroup;
 			children = (
+				9D07470228192A3C0093ED62 /* core */,
+				9D07470128192A330093ED62 /* app */,
 				9D0746DF281929570093ED62 /* Info.plist */,
 				9D0746DC281929570093ED62 /* LaunchScreen.storyboard */,
 			);
