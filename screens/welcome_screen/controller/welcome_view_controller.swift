@@ -10,7 +10,7 @@ import Foundation
 struct WelcomeController {
     
     func getDataFromService(){
-       //
+       ///
     }
 }
 struct UserListController{
@@ -26,6 +26,8 @@ extension UserListController{
             
     }
 }
+
+
 struct UserController{
     let user : User
 }

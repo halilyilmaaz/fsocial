@@ -10,4 +10,5 @@ import Foundation
 struct Constants {
     static let url = URL(string: "https://jsonplaceholder.typicode.com/users")
     static let todoUrl = URL(string: "")
+    
 }

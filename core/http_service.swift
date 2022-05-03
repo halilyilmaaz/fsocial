@@ -55,6 +55,7 @@ extension HttpService{
     }
     
     
+    
     func getReq<T:Codable>(url: URL?, httpMethod: String ,expecting: T.Type,completion:@escaping(Result<T,Error>)->Void){
         
         guard let url = url else {
